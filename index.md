@@ -1,3 +1,8 @@
+
+---
+layout: page
+---
+
 # Olawale Ajayi – Copywriter & Content Strategist
 
 I help **tech, real estate, SaaS, medicine, and beauty** brands create content that converts — from engaging blog posts and persuasive landing pages to compliance-friendly financial scripts.
