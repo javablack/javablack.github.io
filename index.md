@@ -22,10 +22,10 @@ From **compliance-friendly fintech scripts** for Trading.com to **high-performin
 
 ## 📂 Selected Work
 
-- **Finance / SaaS:** Trading.com – [Educational and compliance scripts for global trading platform].()  
-- **Real Estate:** [High-value content for U.S. property platforms (Builder Homesite Inc.).()  
-- **Technology:** [Landing pages and blog posts for SaaS companies and startups].()  
-- **Beauty / Lifestyle:** [Product descriptions and brand storytelling for lifestyle brands].()
+- **Finance / SaaS:** Trading.com – [Educational and compliance scripts for global trading platform]()  
+- **Real Estate:** [High-value content for U.S. property platforms (Builder Homesite Inc.)]()  
+- **Technology:** [Landing pages and blog posts for SaaS companies and startups]()  
+- **Beauty / Lifestyle:** [Product descriptions and brand storytelling for lifestyle brands]()
 
 See my full collection here:  
 [Google Drive Portfolio](https://drive.google.com/drive/folders/1QrFGUCjw7DxPsuMufFHRsB6tc9iz1Ao1?usp=drive_link)
