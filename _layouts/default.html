@@ -8,10 +8,11 @@
 </head>
 <body>
     <nav>
-        <a href="/">Home</a>
-        <a href="/portfolio.html">Portfolio</a>
-        <a href="/contact.html">Contact</a>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/portfolio.html' | relative_url }}">Portfolio</a>
+        <a href="{{ '/contact.html' | relative_url }}">Contact</a>
     </nav>
+
 
     {{ content }}
 </body>
