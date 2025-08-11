@@ -1,26 +1,64 @@
+/* General body styling */
 body {
     font-family: Arial, sans-serif;
-    max-width: 800px;
+    max-width: 900px;
     margin: auto;
     padding: 20px;
     line-height: 1.6;
-    color: #222;
+    background-color: #121212; /* Batman dark */
+    color: #e0e0e0; /* Soft white text */
 }
 
+/* Links */
+a {
+    color: #9ecfff; /* Muted blue links */
+    text-decoration: none;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+a:hover {
+    color: #ffffff; /* Bright white hover */
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.4);
+}
+
+/* Navbar styling */
 nav {
-    background: #f4f4f4;
+    background-color: #1c1c1c; /* Slightly darker navbar */
     padding: 10px;
     text-align: center;
     margin-bottom: 20px;
+    border-bottom: 1px solid #2a2a2a;
 }
 
 nav a {
     margin: 0 15px;
-    text-decoration: none;
-    color: #333;
     font-weight: bold;
+    color: #cccccc; /* Muted light grey links in navbar */
+    transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
 nav a:hover {
-    color: #007acc;
+    color: #ffffff;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.4);
+}
+
+/* Headings with subtle glow */
+h1, h2, h3 {
+    color: #ffffff;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+/* Code blocks (optional for future blog pages) */
+code {
+    background-color: #1e1e1e;
+    padding: 2px 5px;
+    border-radius: 4px;
+    color: #ffcc66;
+}
+
+/* Horizontal rules */
+hr {
+    border: none;
+    border-top: 1px solid #2a2a2a;
+    margin: 20px 0;
 }
