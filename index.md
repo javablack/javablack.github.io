@@ -61,4 +61,5 @@ Whether you’re a startup trying to find your voice or an established brand in 
 
 📩 **Email:** ajayipreciousp@gmail.com  
 🌍 **Remote – Available Worldwide**  
-💼 **LinkedIn:** [View Profile](https://www.linkedin.com/in/javablack)
+💼 **LinkedIn:** [View Profile](https://www.linkedin.com/in/javablack)  
+💻 **Upwork:** [Hire Me](https://www.upwork.com/freelancers/~0129abc77cff70a225?mp_source=share)
