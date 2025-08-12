@@ -7,15 +7,15 @@ title: "Olawale Ajayi – Copywriter & Content Strategist"
 
 I am a storyteller-for-hire with 8+ years of experience helping brands in finance, real estate, technology, SaaS, medicine, and beauty craft content people actually want to read. With me, you get words that sell, teach, and build trust, without the boring, corporate fluff.
 
-From **compliance-friendly fintech scripts** for Trading.com to **high-performing real estate blogs** for Builder Homesite Inc., I’ve helped businesses worldwide connect with their audiences in a way that’s clear, compelling, and results-driven.
+From **compliance-friendly fintech scripts** for Trading.com to **high-performing real estate blogs** for Builder Homesite Inc., I have helped businesses worldwide connect with their audiences in a way that’s clear, compelling, and results-driven.
 
 ---
 
 ## 🚀 What I Bring to the Table
 
 - **Proven Expertise:** 8+ years of writing, editing, and strategy for global clients.  
-- **Versatility:** Blogs, landing pages, ad scripts, video content, and more — tailored to your industry.  
-- **Strategy + Execution:** I don’t just write — I research, plan, and optimize for results.  
+- **Versatility:** Blogs, landing pages, ad scripts, video content, and more; tailored to your industry.  
+- **Strategy + Execution:** I don’t just write; I research, plan, and optimize for results.  
 - **B2B & B2C Friendly:** Comfortable working on campaigns that speak to business leaders, everyday consumers, or both.
 
 ---
