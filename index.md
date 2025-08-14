@@ -5,7 +5,7 @@ title: "Olawale Ajayi – Copywriter & Content Strategist"
 
 # Olawale Ajayi – Copywriter & Content Strategist
 <p align="center">
-  <img src="/assets/Images/Javablack2.png" alt="Olawale Ajayi" width="500"/>
+  <img src="/assets/Images/Javablack2.png" alt="Olawale Ajayi" width="250"/>
 </p>
 
 I am a storyteller-for-hire with **8+ years of experience** helping brands in finance, real estate, technology, SaaS, medicine, and beauty craft content that people actually want to read. The kind that sells, teaches, and builds trust, without the soul-crushing corporate fluff that makes readers glaze over faster than a Krispy Kreme donut.  
