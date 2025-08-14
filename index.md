@@ -7,9 +7,13 @@ title: "Olawale Ajayi – Copywriter & Content Strategist"
 
 I am a storyteller-for-hire with **8+ years of experience** helping brands in finance, real estate, technology, SaaS, medicine, and beauty craft content that people actually want to read. The kind that sells, teaches, and builds trust, without the soul-crushing corporate fluff that makes readers glaze over faster than a Krispy Kreme donut.  
 
+Over the years, my words have done more than fill pages. They have generated **over $900,000 in combined client acquisitions, increased sales, and marketing savings**, while I personally earned over **$70,000+ on Upwork** delivering high-performance copy. My email campaigns have achieved **open rates north of 60%** — well above industry averages, because I write subject lines that get clicks, not yawns.  
+
 From **compliance-friendly fintech scripts** for Trading.com (yes, I make finance sound exciting without breaking a single SEC rule) to **high-performing real estate blogs** for Builder Homesite Inc., I have helped businesses worldwide connect with their audiences in ways that are clear, compelling, and impossible to ignore.  
 
-My mission? To make your brand voice so good that your competitors will “accidentally” start copying it.  
+**My mission?** To make your brand voice so sharp and distinctive that your competitors will “accidentally” start copying it, and then wonder why it still does not work for them.  
+
+**My secret?** Every piece I create is built on deep research, tailored strategy, and just the right dose of personality - so your audience feels like you are speaking *only* to them.  
 
 ---
 
