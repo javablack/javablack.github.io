@@ -16,11 +16,11 @@ From **compliance-friendly fintech scripts** for Trading.com (yes, I make financ
 
 **My mission?** To make your brand voice so sharp and distinctive that your competitors will “accidentally” start copying it, and then wonder why it still does not work for them.  
 
-**My secret?** Every piece I create is built on deep research, tailored strategy, and just the right dose of personality - so your audience feels like you are speaking *only* to them.  
+**My secret?** Every piece I create is built on deep research, tailored strategy, and just the right dose of personality - so your audience feel like you are speaking *only* to them.  
 
 ---
 
-## 🚀 What I Bring to the Table
+## What I Bring to the Table
 
 - **Proven Expertise:** 8+ years of writing, editing, and strategy for clients from startups to global brands. I have delivered content that drives clicks, boosts trust, and sometimes even gets bookmarked (yes, that still happens).  
 - **Versatility:** Blogs, landing pages, ad scripts, video content, and more - all tailored to your industry and audience so it feels custom-built, not copy-pasted.  
