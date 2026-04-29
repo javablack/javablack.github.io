@@ -22,7 +22,7 @@ From **compliance-friendly fintech scripts** for Trading.com (yes, I make financ
 
 ## What I Bring to the Table
 
-- **Proven Expertise:** 8+ years of writing, editing, and strategy for clients from startups to global brands. I have delivered content that drives clicks, builds trust, and occasionally gets bookmarked.
+- **Proven Expertise:** 10+ years of writing, editing, and strategy for clients from startups to global brands. I have delivered content that drives clicks, builds trust, and occasionally gets bookmarked.
 - **Versatility:** Blogs, landing pages, ad scripts, video content, and more, all tailored to your industry and audience so it feels custom-built.
 - **Strategy + Execution:** I do not just write pretty words. I research, plan, and optimize so that every sentence works as hard as you do.
 - **B2B & B2C Friendly:** I can speak to business leaders, everyday consumers, or both, without sounding like I am wearing a stiff suit or selling snake oil.
