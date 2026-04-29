@@ -8,7 +8,7 @@ title: "Olawale Ajayi – Copywriter & Content Strategist"
   <img src="/assets/Images/Javablack_Prime.jpg" alt="Olawale Ajayi" width="250"/>
 </p>
 
-I am a writer who gets paid to make words do things, and I have been doing it for brands in finance, real estate, technology, SaaS, medicine, and beauty for over eight years. The brief changes every time but the standard never moves. Every piece has to sell, teach, and build trust, without the corporate fluff that puts readers to sleep before they reach the second line.
+I am a writer who gets paid to make words do things, and I have been doing it for brands in finance, real estate, technology, SaaS, medicine, and beauty for over 10 ten years. The brief changes every time but the standard never moves. Every piece has to sell, teach, and build trust, without the corporate fluff that puts readers to sleep before they reach the second line.
 
 Over the years, my words have done more than fill pages. They have generated **over $900,000 in combined client acquisitions, increased sales, and marketing savings**, while I personally earned over **$70,000+ on Upwork** delivering high-performance copy. My email campaigns have achieved **open rates north of 60%**, well above industry averages, because I know how to write a subject line.
 
