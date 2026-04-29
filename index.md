@@ -8,9 +8,9 @@ title: "Olawale Ajayi – Copywriter & Content Strategist"
   <img src="/assets/Images/Javablack_Prime.jpg" alt="Olawale Ajayi" width="250"/>
 </p>
 
-I am a storyteller-for-hire with **8+ years of experience** helping brands in finance, real estate, technology, SaaS, medicine, and beauty craft content that people actually want to read — the kind that sells, teaches, and builds trust, without the soul-crushing corporate fluff that makes readers glaze over faster than a Krispy Kreme donut.
+I am a writer who gets paid to make words do things, and I have been doing it for brands in finance, real estate, technology, SaaS, medicine, and beauty for over eight years. The brief changes every time but the standard never moves. Every piece has to sell, teach, and build trust, without the corporate fluff that puts readers to sleep before they reach the second line.
 
-Over the years, my words have done more than fill pages. They have generated **over $900,000 in combined client acquisitions, increased sales, and marketing savings**, while I personally earned over **$70,000+ on Upwork** delivering high-performance copy. My email campaigns have achieved **open rates north of 60%**, well above industry averages, because I write subject lines that get clicks, not yawns.
+Over the years, my words have done more than fill pages. They have generated **over $900,000 in combined client acquisitions, increased sales, and marketing savings**, while I personally earned over **$70,000+ on Upwork** delivering high-performance copy. My email campaigns have achieved **open rates north of 60%**, well above industry averages, because I know how to write a subject line.
 
 From **compliance-friendly fintech scripts** for Trading.com (yes, I make finance sound exciting without breaking a single SEC rule) to **high-performing real estate blogs** for Builder Homesite Inc., I have helped businesses worldwide connect with their audiences in ways that are clear, compelling, and impossible to ignore.
 
@@ -32,26 +32,26 @@ From **compliance-friendly fintech scripts** for Trading.com (yes, I make financ
 ## 📂 Selected Work
 
 ### Design / UX
-- **Material Design Evolution** – <a href="https://1brand.design/blog/the-evolution-of-material-design/" target="_blank">The Evolution of Material Design</a>  
+- **Material Design Evolution** - <a href="https://1brand.design/blog/the-evolution-of-material-design/" target="_blank">The Evolution of Material Design</a>  
   A deep dive into how Google's Material Design evolved, written for UX professionals who love the details but also appreciate a clear, engaging read.
 
 ### Finance / SaaS
-- **Trading.com (US)** – <a href="https://www.trading.com/us/" target="_blank">Visit Site</a>  
+- **Trading.com (US)** - <a href="https://www.trading.com/us/" target="_blank">Visit Site</a>  
   Compliance-approved educational scripts and platform content that make trading concepts easier to understand than your average Netflix plot twist.
 
 ### Technology / SaaS
-- **Snapfix – Blog Highlights**  
-  - <a href="https://snapfix.com/news/maintenance-planning-a-comprehensive-guide" target="_blank">Maintenance Planning: A Comprehensive Guide</a> – An actionable planning guide that helps facility managers get ahead of problems instead of chasing them.
-  - <a href="https://snapfix.com/news/how-to-improve-team-collaboration" target="_blank">How to Improve Team Collaboration</a> – Practical, jargon-free tips that make workplace communication less of a guessing game.
+- **Snapfix - Blog Highlights**  
+  - <a href="https://snapfix.com/news/maintenance-planning-a-comprehensive-guide" target="_blank">Maintenance Planning: A Comprehensive Guide</a> - An actionable planning guide that helps facility managers get ahead of problems instead of chasing them.
+  - <a href="https://snapfix.com/news/how-to-improve-team-collaboration" target="_blank">How to Improve Team Collaboration</a> - Practical, jargon-free tips that make workplace communication less of a guessing game.
 
 ### Health / Wellness
-- **Consumer Health Digest – Invia Review** – <a href="https://www.consumerhealthdigest.com/brain-enhancement-supplements/invia-review.html" target="_blank">Read Article</a>  
+- **Consumer Health Digest - Invia Review** - <a href="https://www.consumerhealthdigest.com/brain-enhancement-supplements/invia-review.html" target="_blank">Read Article</a>  
   An independent, research-backed review of a brain health supplement, without the industry spin.
-- **Hometown Hero – Delta-8 or Delta-9** – <a href="https://hometownhero.com/learn/delta-8-or-delta-9-what-is-stronger/" target="_blank">Read Article</a>  
-  An educational breakdown comparing two cannabinoid types, written so your average reader walks away informed.
+- **Hometown Hero - Delta-8 or Delta-9** - <a href="https://hometownhero.com/learn/delta-8-or-delta-9-what-is-stronger/" target="_blank">Read Article</a>  
+  An educational breakdown comparing two cannabinoid types, written so your average reader walks away informed, not confused.
 
 ### Tech / Cloud
-- **e-Synergy – Three Agile Project Management Frameworks** – <a href="https://esynergy.co.uk/blogs/three-agile-project-management-frameworks-you-should-consider/" target="_blank">Read Article</a>  
+- **e-Synergy - Three Agile Project Management Frameworks** - <a href="https://esynergy.co.uk/blogs/three-agile-project-management-frameworks-you-should-consider/" target="_blank">Read Article</a>  
   A clear, concise guide to three Agile frameworks and where each one actually earns its keep.
 
 See my full collection here:  
@@ -71,7 +71,7 @@ See my full collection here:
 
 ## 📬 Let Us Talk
 
-Whether you are a startup trying to find your voice or an established brand that needs a sharper content strategy, I can help you **create copy that converts the right way**.
+Whether you are a startup trying to find your voice or an established brand that needs sharper content strategy, I can help you **create copy that converts and sticks**.
 
 📩 **Email:** ajayipreciousp@gmail.com  
 🌍 **Remote – Available Worldwide**  
