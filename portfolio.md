@@ -5,7 +5,7 @@ title: "Portfolio"
 
 # Portfolio
 
-This is a curated selection of my work across multiple industries. Every link below is a real project delivered for a client - no filler, no fluff. I have included short descriptions so you know exactly what I did, who it was for, and the type of results it delivered.  
+This is a curated selection of my work across multiple industries. Every link below is a real project delivered for a client, and I have included short descriptions, so you know exactly what I did, who it was for, and the type of results it delivered.  
 
 ---
 
