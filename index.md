@@ -48,7 +48,7 @@ From **compliance-friendly fintech scripts** for Trading.com (yes, I make financ
 - **Consumer Health Digest – Invia Review** – <a href="https://www.consumerhealthdigest.com/brain-enhancement-supplements/invia-review.html" target="_blank">Read Article</a>  
   An independent, research-backed review of a brain health supplement, without the industry spin.
 - **Hometown Hero – Delta-8 or Delta-9** – <a href="https://hometownhero.com/learn/delta-8-or-delta-9-what-is-stronger/" target="_blank">Read Article</a>  
-  An educational breakdown comparing two cannabinoid types, written so your average reader walks away informed, not confused.
+  An educational breakdown comparing two cannabinoid types, written so your average reader walks away informed.
 
 ### Tech / Cloud
 - **e-Synergy – Three Agile Project Management Frameworks** – <a href="https://esynergy.co.uk/blogs/three-agile-project-management-frameworks-you-should-consider/" target="_blank">Read Article</a>  
